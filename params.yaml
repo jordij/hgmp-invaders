@@ -1,0 +1,5 @@
+api:
+  has[]:  geo
+  quality_grade:  research
+  per_page:  100
+  page: 1
